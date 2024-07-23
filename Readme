@@ -1,0 +1,12 @@
+AuthApi es un api que proporciona una autencticacion basada en token 
+Consulta contra la base de datos de usuarios y obtiene un token
+
+
+ConsumerApi es un api expone un AuthController para autenticarse, aunque realmente lo hace contra AuthApi mediante una httpRequest
+
+Usa la clase IdentityServiceExtensions para configurar el JWT
+
+Además en program.cs tiene la directiva 
+
+app.UseAuthentication();
+
