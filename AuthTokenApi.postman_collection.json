@@ -1,0 +1,128 @@
+{
+	"info": {
+		"_postman_id": "05ca65c3-11d9-40e3-957d-eb59d181cb96",
+		"name": "AuthTokenApi",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "29609753"
+	},
+	"item": [
+		{
+			"name": "GetUsers Copy",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer {{token}",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://localhost:7005/api/Auth/obtener2",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7005",
+					"path": [
+						"api",
+						"Auth",
+						"obtener2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "register",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"username\":\"juancito14\",\r\n    \"password\": \"password\",\r\n    \"knownAs\": \"Juancho\",\r\n    \"createdAt\": \"1981-07-05\",\r\n    \"gender\": \"male\",\r\n    \"city\": \"city\",\r\n    \"country\": \"country\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7015/api/account/register",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7015",
+					"path": [
+						"api",
+						"account",
+						"register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "login",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"const user = pm.response.json();\r",
+							"pm.test(\"has properties\", function (){\r",
+							"\r",
+							"    pm.expect(user).to.have.property(\"username\");\r",
+							"    pm.expect(user).to.have.property(\"token\");\r",
+							"})\r",
+							"\r",
+							"if(pm.test(\"has properties\")){\r",
+							"    pm.globals.set(\"token\",user.token);\r",
+							"}"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"username\":\"rivera\",\r\n    \"password\": \"password\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7287/api/account/login",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7287",
+					"path": [
+						"api",
+						"account",
+						"login"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
