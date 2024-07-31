@@ -15,10 +15,12 @@ namespace ConsumerApi.Controllers
 
 
         private readonly AuthService _authService;
+        private readonly ILogger<AuthController> _logger;
 
-        public AuthController(AuthService authService)
+        public AuthController(AuthService authService, ILogger<AuthController> logger)
         {
             _authService = authService;
+            _logger = logger;
         }
 
 
@@ -36,6 +38,7 @@ namespace ConsumerApi.Controllers
         [HttpGet("obtener1")]
         public async Task<ActionResult<String>> Obtener1()
         {
+              _logger.LogInformation("obtener 1");
             return Ok("Obtener1");
         }
 
@@ -45,6 +48,15 @@ namespace ConsumerApi.Controllers
         {
             return Ok("Obtener2");
         }
+
+        [HttpGet("obtener3")]
+        public async Task<ActionResult<String>> Obtener3()
+        {
+            
+            _logger.LogCritical("Error chungo");
+            return Ok ("Obtener 3");
+        }
+
     }
 
 

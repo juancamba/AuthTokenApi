@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juan\\source\\repos\\AuthTokenApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CB855B-277D-44FC-9F6A-B3BD80A92DA2}|AuthApi\\AuthApi.csproj|c:\\users\\juan\\source\\repos\\authtokenapi\\authapi\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0CB855B-277D-44FC-9F6A-B3BD80A92DA2}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CB855B-277D-44FC-9F6A-B3BD80A92DA2}|AuthApi\\AuthApi.csproj|c:\\users\\juan\\source\\repos\\authtokenapi\\authapi\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0CB855B-277D-44FC-9F6A-B3BD80A92DA2}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CB855B-277D-44FC-9F6A-B3BD80A92DA2}|AuthApi\\AuthApi.csproj|c:\\users\\juan\\source\\repos\\authtokenapi\\authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0CB855B-277D-44FC-9F6A-B3BD80A92DA2}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CB855B-277D-44FC-9F6A-B3BD80A92DA2}|AuthApi\\AuthApi.csproj|c:\\users\\juan\\source\\repos\\authtokenapi\\authapi\\data\\seed\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0CB855B-277D-44FC-9F6A-B3BD80A92DA2}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\data\\seed\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CB855B-277D-44FC-9F6A-B3BD80A92DA2}|AuthApi\\AuthApi.csproj|c:\\users\\juan\\source\\repos\\authtokenapi\\authapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0CB855B-277D-44FC-9F6A-B3BD80A92DA2}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CB855B-277D-44FC-9F6A-B3BD80A92DA2}|AuthApi\\AuthApi.csproj|c:\\users\\juan\\source\\repos\\authtokenapi\\authapi\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0CB855B-277D-44FC-9F6A-B3BD80A92DA2}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CB855B-277D-44FC-9F6A-B3BD80A92DA2}|AuthApi\\AuthApi.csproj|c:\\users\\juan\\source\\repos\\authtokenapi\\authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0CB855B-277D-44FC-9F6A-B3BD80A92DA2}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CB855B-277D-44FC-9F6A-B3BD80A92DA2}|AuthApi\\AuthApi.csproj|c:\\users\\juan\\source\\repos\\authtokenapi\\authapi\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0CB855B-277D-44FC-9F6A-B3BD80A92DA2}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CB855B-277D-44FC-9F6A-B3BD80A92DA2}|AuthApi\\AuthApi.csproj|c:\\users\\juan\\source\\repos\\authtokenapi\\authapi\\data\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0CB855B-277D-44FC-9F6A-B3BD80A92DA2}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\data\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\AuthTokenApi\\AuthApi\\Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "AuthApi\\Services\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\AuthTokenApi\\AuthApi\\Services\\ITokenService.cs",
+              "RelativeToolTip": "AuthApi\\Services\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:32:56.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\AuthTokenApi\\AuthApi\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\AuthTokenApi\\AuthApi\\appsettings.json",
+              "RelativeToolTip": "AuthApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T17:23:20.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\AuthTokenApi\\AuthApi\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "AuthApi\\Dto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\AuthTokenApi\\AuthApi\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "AuthApi\\Dto\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:22:22.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\AuthTokenApi\\AuthApi\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeDocumentMoniker": "AuthApi\\Extensions\\ApplicationServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\AuthTokenApi\\AuthApi\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeToolTip": "AuthApi\\Extensions\\ApplicationServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:15:21.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\AuthTokenApi\\AuthApi\\Program.cs",
+              "RelativeDocumentMoniker": "AuthApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\AuthTokenApi\\AuthApi\\Program.cs",
+              "RelativeToolTip": "AuthApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:13:34.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\AuthTokenApi\\AuthApi\\Data\\AppUser.cs",
+              "RelativeDocumentMoniker": "AuthApi\\Data\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\AuthTokenApi\\AuthApi\\Data\\AppUser.cs",
+              "RelativeToolTip": "AuthApi\\Data\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:11:46.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "users.json",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\AuthTokenApi\\AuthApi\\Data\\Seed\\users.json",
+              "RelativeDocumentMoniker": "AuthApi\\Data\\Seed\\users.json",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\AuthTokenApi\\AuthApi\\Data\\Seed\\users.json",
+              "RelativeToolTip": "AuthApi\\Data\\Seed\\users.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T17:11:02.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\AuthTokenApi\\AuthApi\\Data\\Seed.cs",
+              "RelativeDocumentMoniker": "AuthApi\\Data\\Seed.cs",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\AuthTokenApi\\AuthApi\\Data\\Seed.cs",
+              "RelativeToolTip": "AuthApi\\Data\\Seed.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:08:55.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\AuthTokenApi\\AuthApi\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AuthApi\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\AuthTokenApi\\AuthApi\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AuthApi\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:54:30.527Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
